@@ -1,4 +1,4 @@
-# Quantum computing basics – notes
+# Quantum computing basics | Notes
 
 ## 1. Qubits and states
 - Dirac notation recap
